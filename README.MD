@@ -1,6 +1,6 @@
 # Repository for Hosting Blog Comments
 
-This repository is used to host all [my blog](https://blog.terminals.run) reviews. It is implemented based on the open source [project Giscus](https://github.com/giscus/giscus).
+This repository is used to host all [my blog](https://dreams.plus) reviews. It is implemented based on the open source [project Giscus](https://github.com/giscus/giscus).
 
 The basic implementation principle is to use the Github API to bind all comments to the discussion topic posts in this repository.
 
